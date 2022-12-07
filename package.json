@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Sebas17b8/Tarea_NPM_Express#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.18.2"
   }
 }
